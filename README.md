@@ -1,6 +1,13 @@
-# OOP-Robert-Lefore
+# Object-Oriented Programming Assignments
 
-This is a Readme of  OOP assignments from Robert Lefore 
+This repository contains my solutions to the Object-Oriented Programming (OOP) assignments from Robert Lefore's 4th edition.
 
+## Assignment Details
 
-## This is my first Repostiry
+List the topics covered in the assignments, such as:
+- Classes and Objects
+- Constructors
+- Operator Overloading
+- Inheritance
+- Polymorphism
+- Pointers
